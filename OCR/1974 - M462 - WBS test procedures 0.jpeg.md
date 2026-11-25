@@ -26,7 +26,7 @@ Equalizer Module
 
 ```json
 {
- "file": "Modules/FILTERS/M462/PHOTOS/1974 - M462 - WBS test procedures 0.jpeg",
+ "file": "Modules/FILTERS/M462/MANUALS/1974 - M462 - WBS test procedures 0.jpeg",
  "sha256": "71ef98797872b4fe53733a50463303c7455c62f88126992b19c78926bb529396",
  "kind": "module",
  "models": [
