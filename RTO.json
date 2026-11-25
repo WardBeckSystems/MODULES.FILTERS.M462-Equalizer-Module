@@ -1,0 +1,148 @@
+{
+ "code": "M462",
+ "connector": "RTO-144",
+ "type": "EQUALIZER",
+ "series": "L-EFFECT",
+ "contacts": "15 contacts, 8 contacts (J4), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "EQ IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "PHOTOS/Drawings/1976 - EQUALIZER MODULE SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "OUTPUT OF T HL 8-109A 1 ACTHELY",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf",
+   "page": 6
+  },
+  {
+   "pin": "15",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "EQ OUT LEFT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M462/M462.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M462/M462.rto144.json",
+  "Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf",
+  "PHOTOS/Drawings/1976 - EQUALIZER MODULE SCHEMATIC.jpg"
+ ]
+}
