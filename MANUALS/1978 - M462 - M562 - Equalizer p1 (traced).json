@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a53853d6c6893adc-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "42"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 20.7, 301.8, 424.9],
+ "outlines": {
+  "line": {"rings": 93, "straight": {"n": 1631, "mm": 4366.7}, "curved": {"n": 284, "mm": 485.8}},
+  "text": {"rings": 73, "straight": {"n": 704, "mm": 965.7}, "curved": {"n": 161, "mm": 273.0}},
+  "tb": {"rings": 6, "straight": {"n": 91, "mm": 112.9}, "curved": {"n": 39, "mm": 65.6}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [271.6, 408.3, 276.1, 411.5], "w": 4.5, "h": 3.2, "from": "ring"}],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [117.4, 404.6, 278.5, 412.0], "text": "WARD -BECK YSTE MS LTD"},
+   {"mm": [204.2, 398.8, 252.2, 403.6], "text": "~.CNT\"\"\"CI"},
+   {"mm": [117.0, 393.4, 133.0, 397.4], "text": "T.uI><"},
+   {"mm": [136.9, 393.2, 169.3, 398.0], "text": "~·a538a"},
+   {"mm": [204.2, 393.4, 234.9, 397.4], "text": "Tl\".,Ef'I'-oClNI!"},
+   {"mm": [253.5, 392.9, 278.5, 398.7], "text": "3lI·e l5lKl"},
+   {"mm": [123.5, 234.0, 212.7, 246.7], "text": "M462 /M562"},
+   {"mm": [125.2, 219.1, 208.8, 225.6], "text": "EQUALIZER MODULE"},
+   {"mm": [275.1, 64.3, 295.8, 73.2], "text": "ps"},
+   {"mm": [263.6, 53.1, 285.2, 64.4], "text": "BS"},
+   {"mm": [215.7, 52.9, 263.8, 58.2], "text": "NUAL SSUE 14"},
+   {"mm": [206.8, 40.2, 260.4, 45.4], "text": "SEPTEMBER 1985"},
+   {"mm": [241.4, 30.9, 259.7, 38.1], "text": "tp"},
+   {"mm": [234.5, 24.0, 255.2, 30.9], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [110.8, 396.0, 198.1, 420.8], "from": "title-block words (training set)", "text": ["WARD -BECK YSTE MS LTD"]},
+ "dots": [{"c": [198.6, 240.9], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–302 mm across, 21–425 mm up",
+  "- **Outlines:** line 93 rings, 1,631 straight (4,367 mm) / 284 curved (486 mm); text 73 rings, 704 straight (966 mm) / 161 curved (273 mm); tb 6 rings, 91 straight (113 mm) / 39 curved (65.6 mm)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 24 in 14 lines: WARD -BECK YSTE MS LTD · ~.CNT\"\"\"CI · T.uI>< · ~·a538a · Tl\".,Ef'I'-oClNI! · 3lI·e l5lKl · M462 /M562 · EQUALIZER MODULE · ps · BS · NUAL SSUE 14 · SEPTEMBER 1985",
+  "- **Title block:** (111, 396)–(198, 421) mm: WARD -BECK YSTE MS LTD"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf",
+ "page": 26,
+ "version": 1,
+ "trace": "_traces/a53853d6c6893adc-p26.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "26", "pages": "42"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, 20.9, 320.0, 426.8],
+ "outlines": {
+  "line": {"rings": 224, "straight": {"n": 2439, "mm": 5200.7}, "curved": {"n": 534, "mm": 873.1}},
+  "text": {"rings": 266, "straight": {"n": 2151, "mm": 2522.8}, "curved": {"n": 582, "mm": 951.1}}
+ },
+ "circles": [
+  {"c": [108.1, 339.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [197.3, 271.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 64,
+  "lines": [
+   {"mm": [110.5, 363.1, 227.8, 368.4], "text": "126 EOUALIZER FILT ER AMPLIF IER"},
+   {"mm": [43.0, 322.8, 53.3, 328.0], "text": "R4S"},
+   {"mm": [71.7, 322.8, 98.0, 328.0], "text": "Re stor"},
+   {"mm": [109.0, 322.8, 117.7, 328.0], "text": "4W"},
+   {"mm": [191.1, 323.0, 194.3, 328.3], "text": "il"},
+   {"mm": [43.0, 316.1, 52.9, 321.4], "text": "R46"},
+   {"mm": [75.6, 316.1, 87.2, 321.4], "text": "elet"},
+   {"mm": [42.7, 302.7, 52.7, 307.7], "text": "R47"},
+   {"mm": [71.5, 302.7, 78.6, 307.7], "text": "Re"},
+   {"mm": [89.2, 302.7, 117.2, 307.7], "text": "tor 1!4W"},
+   {"mm": [138.0, 302.7, 145.5, 307.7], "text": "1M"},
+   {"mm": [42.7, 296.0, 52.9, 301.0], "text": "R48"},
+   {"mm": [137.3, 296.0, 147.5, 301.0], "text": "6K2"},
+   {"mm": [42.7, 289.5, 53.5, 294.8], "text": "R49"},
+   {"mm": [137.3, 289.5, 147.9, 294.8], "text": "4K7"},
+   {"mm": [43.0, 281.5, 54.4, 289.4], "text": "esc"},
+   {"mm": [72.8, 267.9, 106.7, 274.4], "text": "I\"'le,~,.a ted"},
+   {"mm": [118.7, 268.4, 129.3, 273.6], "text": "N:ui"},
+   {"mm": [43.0, 228.6, 49.7, 233.9], "text": "Z6"},
+   {"mm": [231.7, 228.6, 249.6, 233.9], "text": "LMZOI"},
+   {"mm": [43.0, 221.7, 50.1, 227.5], "text": "Z7"},
+   {"mm": [231.7, 222.4, 257.1, 227.4], "text": "LM14 58N"},
+   {"mm": [275.1, 64.3, 295.8, 73.2], "text": "ps"},
+   {"mm": [48.1, 60.0, 54.0, 65.1], "text": "as"},
+   {"mm": [63.3, 59.8, 88.1, 65.1], "text": "e<::omm en"},
+   {"mm": [120.9, 59.8, 180.7, 65.1], "text": "Se 01 ep ac em ent"},
+   {"mm": [185.5, 59.8, 223.2, 65.1], "text": "part ma de"},
+   {"mm": [261.5, 59.8, 283.0, 65.1], "text": "eci ied"},
+   {"mm": [263.6, 53.1, 285.2, 64.4], "text": "BS"},
+   {"mm": [43.0, 53.1, 86.1, 58.4], "text": "man ufact ur er"},
+   {"mm": [97.8, 53.1, 201.2, 58.4], "text": "or cont nu ed op im um qui pme"},
+   {"mm": [213.3, 53.1, 254.8, 58.4], "text": "per'fo,.mance."},
+   {"mm": [241.4, 30.9, 259.7, 38.1], "text": "tp"},
+   {"mm": [234.5, 24.0, 255.2, 30.9], "text": "ht"},
+   {"mm": [176.0, 19.4, 186.1, 25.4], "text": "2-J"}
+  ]
+ },
+ "dots": [{"c": [197.3, 271.8], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–320 mm across, 21–427 mm up",
+  "- **Outlines:** line 224 rings, 2,439 straight (5,201 mm) / 534 curved (873 mm); text 266 rings, 2,151 straight (2,523 mm) / 582 curved (951 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (108.1, 339.6), r 1.8 @ (197.3, 271.8)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 64 in 35 lines: 126 EOUALIZER FILT ER AMPLIF IER · R4S · Re stor · 4W · il · R46 · elet · R47 · Re · tor 1!4W · 1M · R48"
+ ]
+}

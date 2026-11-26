@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1974 - M462 - M562 - Equalizer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c832b187537cc219-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "42"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 20.7, 301.6, 424.9],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 720, "mm": 3009.6}, "curved": {"n": 78, "mm": 131.9}},
+  "text": {"rings": 140, "straight": {"n": 1666, "mm": 2421.0}, "curved": {"n": 402, "mm": 686.3}},
+  "tb": {"rings": 2, "straight": {"n": 5, "mm": 3.0}, "curved": {"n": 1, "mm": 0.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [116.2, 404.2, 279.8, 414.5], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [47.1, 395.5, 250.9, 409.7], "text": "WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAI"},
+   {"mm": [253.0, 400.3, 277.2, 405.1], "text": "M1h2x4"},
+   {"mm": [202.7, 394.2, 276.6, 399.8], "text": "TELEPHONE 416/438-6550"},
+   {"mm": [115.3, 393.8, 167.5, 399.1], "text": "TeleX O65-25399"},
+   {"mm": [122.0, 233.6, 214.6, 250.2], "text": "M462/M562"},
+   {"mm": [124.1, 218.5, 209.4, 226.6], "text": "EQUALIZER MODULE"},
+   {"mm": [206.2, 53.5, 231.7, 60.0], "text": "MANUAL"},
+   {"mm": [234.9, 53.5, 253.9, 60.5], "text": "ISSUE"},
+   {"mm": [205.8, 39.9, 260.6, 46.9], "text": "SEPTEMBER 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [109.4, 44.8, 260.3, 423.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD_",
+   "WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAI",
+   "TELEPHONE 416/438-6550",
+   "TeleX O65-25399",
+   "M462/M562",
+   "EQUALIZER MODULE",
+   "MANUAL",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–302 mm across, 21–425 mm up",
+  "- **Outlines:** line 26 rings, 720 straight (3,010 mm) / 78 curved (132 mm); text 140 rings, 1,666 straight (2,421 mm) / 402 curved (686 mm); tb 2 rings, 5 straight (3.0 mm) / 1 curved (0.9 mm)",
+  "- **Words (OCR):** 17 in 10 lines: WARD-BECK SYSTEMS LTD_ · WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAI · M1h2x4 · TELEPHONE 416/438-6550 · TeleX O65-25399 · M462/M562 · EQUALIZER MODULE · MANUAL · ISSUE · SEPTEMBER 1985",
+  "- **Title block:** (109, 45)–(260, 423) mm: WARD-BECK SYSTEMS LTD_ · WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAI · TELEPHONE 416/438-6550 · TeleX O65-25399 · M462/M562 · EQUALIZER MODULE · MANUAL · ISSUE"
+ ]
+}

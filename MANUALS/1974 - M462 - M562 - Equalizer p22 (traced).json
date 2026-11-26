@@ -1,0 +1,92 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1974 - M462 - M562 - Equalizer.pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/c832b187537cc219-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "42"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 20.5, 301.0, 424.9],
+ "outlines": {
+  "line": {"rings": 32, "straight": {"n": 787, "mm": 3417.1}, "curved": {"n": 73, "mm": 117.0}},
+  "text": {"rings": 377, "straight": {"n": 2884, "mm": 3317.0}, "curved": {"n": 823, "mm": 1342.1}},
+  "tb": {"rings": 3, "straight": {"n": 6, "mm": 4.6}, "curved": {"n": 9, "mm": 13.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [24.2, 414.5, 138.6, 421.5], "text": "WAAD-BECK SYSTEms LTD_"},
+   {"mm": [144.2, 370.9, 183.5, 378.3], "text": "PARTS List"},
+   {"mm": [182.0, 357.3, 206.4, 365.0], "text": "SERIES"},
+   {"mm": [122.0, 358.4, 179.8, 364.9], "text": "8-109 AMPLIFIER"},
+   {"mm": [38.9, 344.4, 60.9, 352.0], "text": "8-109G"},
+   {"mm": [38.9, 330.8, 82.3, 337.9], "text": "AII parts as"},
+   {"mm": [85.1, 331.2, 96.9, 336.5], "text": "per"},
+   {"mm": [99.3, 330.8, 154.2, 338.4], "text": "8-109 except 25"},
+   {"mm": [156.5, 331.4, 198.2, 337.9], "text": "noted below"},
+   {"mm": [38.9, 317.8, 56.1, 324.8], "text": "PART"},
+   {"mm": [71.2, 317.8, 110.5, 324.8], "text": "DESC IPTION"},
+   {"mm": [180.3, 318.5, 193.9, 324.9], "text": "MFG"},
+   {"mm": [228.4, 317.8, 241.8, 324.8], "text": "MFG"},
+   {"mm": [244.6, 317.8, 290.4, 324.9], "text": "PART NUMBER"},
+   {"mm": [38.9, 304.9, 47.9, 311.3], "text": "C6"},
+   {"mm": [70.4, 304.2, 126.9, 311.6], "text": "Capacitor 4.7"},
+   {"mm": [129.5, 304.4, 138.6, 311.4], "text": "pF"},
+   {"mm": [179.4, 304.4, 204.5, 312.1], "text": "Philips"},
+   {"mm": [227.8, 304.9, 275.7, 311.3], "text": "2222-638-09478"},
+   {"mm": [38.9, 298.4, 50.1, 304.9], "text": "C11"},
+   {"mm": [38.9, 285.0, 51.2, 291.5], "text": "R1S"},
+   {"mm": [71.2, 285.0, 117.2, 291.5], "text": "Resistor 1/4w"},
+   {"mm": [131.3, 285.0, 143.8, 291.5], "text": "2K4"},
+   {"mm": [39.5, 145.3, 122.8, 152.2], "text": "WBS recommends the use"},
+   {"mm": [125.2, 145.7, 133.2, 152.2], "text": "of"},
+   {"mm": [135.6, 145.3, 217.6, 152.3], "text": "replacement parts made"},
+   {"mm": [219.8, 145.3, 228.9, 152.3], "text": "by"},
+   {"mm": [232.1, 144.9, 277.0, 152.8], "text": "the specified"},
+   {"mm": [38.9, 138.6, 100.8, 145.6], "text": "manufacturers for"},
+   {"mm": [103.2, 138.2, 249.4, 145.9], "text": "continued optimum equipment performance."},
+   {"mm": [148.1, 20.3, 180.1, 26.8], "text": "8-109-2-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [17.7, 137.1, 126.5, 430.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEms LTD_",
+   "8-109G",
+   "AII parts as",
+   "per",
+   "8-109 except 25",
+   "PART",
+   "DESC IPTION",
+   "C6",
+   "Capacitor 4.7",
+   "C11",
+   "R1S",
+   "Resistor 1/4w",
+   "WBS recommends the use",
+   "manufacturers for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–301 mm across, 20–425 mm up",
+  "- **Outlines:** line 32 rings, 787 straight (3,417 mm) / 73 curved (117 mm); text 377 rings, 2,884 straight (3,317 mm) / 823 curved (1,342 mm); tb 3 rings, 6 straight (4.6 mm) / 9 curved (13.4 mm)",
+  "- **Words (OCR):** 49 in 31 lines: WAAD-BECK SYSTEms LTD_ · PARTS List · SERIES · 8-109 AMPLIFIER · 8-109G · AII parts as · per · 8-109 except 25 · noted below · PART · DESC IPTION · MFG",
+  "- **Title block:** (18, 137)–(126, 430) mm: WAAD-BECK SYSTEms LTD_ · 8-109G · AII parts as · per · 8-109 except 25 · PART · DESC IPTION · C6 · Capacitor 4.7 · C11 · R1S · Resistor 1/4w · WBS recommends the use · manufacturers for"
+ ]
+}

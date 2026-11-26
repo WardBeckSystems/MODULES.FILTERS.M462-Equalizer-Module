@@ -1,0 +1,97 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1978 - M462 - M562 - Equalizer.pdf",
+ "page": 34,
+ "version": 1,
+ "trace": "_traces/a53853d6c6893adc-p34.svg",
+ "sheet": {
+  "number": "462-04-004",
+  "title": "Connector Rear View",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1533],
+  "mm": [431.8, 331.0],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "34", "pages": "42"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 6.7, 425.1, 331.0],
+ "outlines": {
+  "line": {"rings": 200, "straight": {"n": 4269, "mm": 8334.9}, "curved": {"n": 653, "mm": 992.1}},
+  "text": {"rings": 264, "straight": {"n": 2346, "mm": 3102.7}, "curved": {"n": 571, "mm": 939.0}},
+  "tb": {"rings": 4, "straight": {"n": 140, "mm": 318.3}, "curved": {"n": 11, "mm": 19.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [229.9, 226.4, 241.2, 236.6], "w": 11.2, "h": 10.3, "from": "ring"},
+  {"mm": [135.5, 213.5, 147.9, 236.4], "w": 12.4, "h": 22.9, "from": "ring"},
+  {"mm": [148.8, 213.5, 161.5, 236.4], "w": 12.7, "h": 22.9, "from": "ring"},
+  {"mm": [162.4, 213.5, 176.6, 236.4], "w": 14.2, "h": 22.9, "from": "ring"},
+  {"mm": [123.3, 213.5, 134.7, 236.2], "w": 11.4, "h": 22.7, "from": "ring"},
+  {"mm": [229.8, 213.5, 241.4, 226.0], "w": 11.6, "h": 12.5, "from": "ring"},
+  {"mm": [263.4, 96.1, 282.8, 105.6], "w": 19.4, "h": 9.5, "from": "ring", "in_title_block": true},
+  {"mm": [283.9, 95.9, 303.1, 105.4], "w": 19.2, "h": 9.5, "from": "ring", "in_title_block": true},
+  {"mm": [303.9, 95.6, 403.1, 105.4], "w": 99.2, "h": 9.7, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [213.5, 57.9, 262.5, 67.7], "w": 49.0, "h": 9.9, "from": "ring", "words": ["DRN_", "DM/ 0ct74"], "in_title_block": true},
+  {"mm": [213.5, 47.9, 262.8, 57.8], "w": 49.2, "h": 9.9, "from": "ring", "words": ["ENG_"], "in_title_block": true},
+  {"mm": [213.5, 38.0, 262.8, 47.5], "w": 49.2, "h": 9.5, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [213.3, 27.9, 262.8, 37.8], "w": 49.4, "h": 9.9, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [283.5, 7.6, 382.8, 27.6], "w": 99.3, "h": 20.1, "from": "ring", "words": ["462-04-004"]}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [264.5, 97.4, 301.8, 103.8], "text": "ISSUE DATE"},
+   {"mm": [340.0, 97.4, 368.8, 103.8], "text": "REVISION"},
+   {"mm": [406.8, 97.4, 420.4, 102.9], "text": "APP"},
+   {"mm": [226.7, 74.7, 357.1, 87.4], "text": "WBS WARD-BECK"},
+   {"mm": [360.3, 76.4, 416.0, 86.0], "text": "SYSTEMS"},
+   {"mm": [363.8, 35.4, 402.4, 73.3], "text": "NBSA"},
+   {"mm": [214.4, 58.5, 261.2, 66.6], "text": "DRN_ DM/ 0ct74"},
+   {"mm": [214.4, 49.0, 228.0, 56.9], "text": "ENG_"},
+   {"mm": [305.1, 52.9, 367.9, 60.1], "text": "M462 M4624 M462B"},
+   {"mm": [307.7, 44.9, 364.2, 55.7], "text": "EQUALIZER  MODULe"},
+   {"mm": [214.4, 39.3, 229.5, 46.5], "text": "CKD"},
+   {"mm": [306.6, 33.0, 370.9, 40.9], "text": "CONNECTOR REAR VIEW"},
+   {"mm": [215.0, 29.1, 228.6, 35.6], "text": "APP"},
+   {"mm": [227.8, 20.3, 247.6, 26.8], "text": "SCALE"},
+   {"mm": [394.0, 20.3, 412.4, 26.8], "text": "ISSUE"},
+   {"mm": [295.8, 10.8, 329.9, 17.3], "text": "462-04-004"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [205.7, 13.7, 428.9, 110.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK",
+   "SYSTEMS",
+   "NBSA",
+   "DRN_ DM/ 0ct74",
+   "ENG_",
+   "M462 M4624 M462B",
+   "EQUALIZER  MODULe",
+   "CKD",
+   "CONNECTOR REAR VIEW",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "462-04-004"
+  ]
+ },
+ "dots": [{"c": [304.6, 220.8], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 462-04-004, size B (assumed) 432 × 331 mm, 2000 × 1533 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–425 mm across, 7–331 mm up",
+  "- **Outlines:** line 200 rings, 4,269 straight (8,335 mm) / 653 curved (992 mm); text 264 rings, 2,346 straight (3,103 mm) / 571 curved (939 mm); tb 4 rings, 140 straight (318 mm) / 11 curved (19.9 mm)",
+  "- **Closed boxes:** 14 (7 in the title block); named: 462-04-004",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 20 in 16 lines: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · NBSA · DRN_ DM/ 0ct74 · ENG_ · M462 M4624 M462B · EQUALIZER  MODULe · CKD · CONNECTOR REAR VIEW",
+  "- **Title block:** (206, 14)–(429, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · NBSA · DRN_ DM/ 0ct74 · ENG_ · M462 M4624 M462B · EQUALIZER  MODULe · CKD · CONNECTOR REAR VIEW · APP · SCALE · ISSUE · 462-04-004"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1974 - M462 - EQ Module - User Guide (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1ab78d3eaaa72ece-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1447, 2000],
+  "mm": [312.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "7"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.3, 3.0, 299.9, 422.5],
+ "outlines": {
+  "line": {"rings": 139, "straight": {"n": 2326, "mm": 4575.2}, "curved": {"n": 446, "mm": 705.6}},
+  "text": {"rings": 137, "straight": {"n": 1187, "mm": 1547.5}, "curved": {"n": 232, "mm": 356.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [30.7, 405.7, 178.3, 422.0], "text": "(\\NElS) 41 'f'OGfl['88 AVENue."},
+   {"mm": [110.5, 415.2, 147.7, 422.6], "text": "WARD"},
+   {"mm": [163.9, 415.2, 187.8, 422.6], "text": "ECK"},
+   {"mm": [226.7, 409.1, 250.4, 413.4], "text": "O\"VTARIO"},
+   {"mm": [109.5, 402.7, 160.2, 408.2], "text": "mrx: OO-ii!3489"},
+   {"mm": [201.4, 402.4, 277.0, 408.4], "text": "\"I'S.a\"t<Ne. t'OI 43B-Il:5~"},
+   {"mm": [126.3, 241.2, 184.2, 251.7], "text": "M462"},
+   {"mm": [118.5, 228.6, 198.8, 234.9], "text": "EQ UALI ZER MOD ULE"},
+   {"mm": [266.6, 53.5, 286.1, 61.9], "text": "ps"},
+   {"mm": [255.8, 43.0, 276.1, 53.5], "text": "BS"},
+   {"mm": [235.1, 22.0, 252.4, 28.7], "text": "tp"},
+   {"mm": [228.4, 15.3, 247.9, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [227.1, 409.8], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 312 × 432 mm, 1447 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–300 mm across, 3–422 mm up",
+  "- **Outlines:** line 139 rings, 2,326 straight (4,575 mm) / 446 curved (706 mm); text 137 rings, 1,187 straight (1,548 mm) / 232 curved (356 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 22 in 12 lines: (\\NElS) 41 'f'OGfl['88 AVENue. · WARD · ECK · O\"VTARIO · mrx: OO-ii!3489 · \"I'S.a\"t<Ne. t'OI 43B-Il:5~ · M462 · EQ UALI ZER MOD ULE · ps · BS · tp · ht"
+ ]
+}

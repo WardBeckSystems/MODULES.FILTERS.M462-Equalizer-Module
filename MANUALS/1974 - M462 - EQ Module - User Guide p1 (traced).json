@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/FILTERS/M462/MANUALS/1974 - M462 - EQ Module - User Guide.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0936de42b263932b-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1447, 2000],
+  "mm": [312.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "7"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.3, 3.0, 299.9, 422.5],
+ "outlines": {
+  "line": {"rings": 14, "straight": {"n": 790, "mm": 2813.0}, "curved": {"n": 93, "mm": 150.0}},
+  "text": {"rings": 174, "straight": {"n": 2210, "mm": 2751.0}, "curved": {"n": 517, "mm": 809.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [109.9, 412.8, 276.4, 422.8], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [37.6, 403.5, 275.7, 419.8], "text": "WES 041 PAOGHE9S AVENUE SCARBOROUGH, ONTARID M1h2x4"},
+   {"mm": [108.8, 401.8, 160.0, 407.3], "text": "TELEX: 0b-23469"},
+   {"mm": [199.1, 400.5, 276.1, 407.5], "text": "TELEPHONE: 418/433-0550"},
+   {"mm": [125.7, 240.7, 183.9, 254.2], "text": "Ma62"},
+   {"mm": [117.0, 228.4, 199.1, 236.6], "text": "EQUALIZER MODULE"},
+   {"mm": [66.1, 1.7, 245.5, 8.7], "text": "DESIGN AND MANUFACTURE O; PAOFCSSIONAL AUOD EGUPMENT"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 312 × 432 mm, 1447 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–300 mm across, 3–422 mm up",
+  "- **Outlines:** line 14 rings, 790 straight (2,813 mm) / 93 curved (150 mm); text 174 rings, 2,210 straight (2,751 mm) / 517 curved (810 mm)",
+  "- **Words (OCR):** 9 in 7 lines: WAAD-BECK SYSTEMS LTD · WES 041 PAOGHE9S AVENUE SCARBOROUGH, ONTARID M1h2x4 · TELEX: 0b-23469 · TELEPHONE: 418/433-0550 · Ma62 · EQUALIZER MODULE · DESIGN AND MANUFACTURE O; PAOFCSSIONAL AUOD EGUPMENT"
+ ]
+}
