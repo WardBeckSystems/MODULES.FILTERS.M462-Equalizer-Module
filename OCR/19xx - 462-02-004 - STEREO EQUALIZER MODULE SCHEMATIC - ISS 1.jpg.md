@@ -34,7 +34,7 @@ M462C stereo equalizer module schematic, cropped.
 - **Title block:** (204, 38)–(319, 62) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 63 connected wire groups from 755 runs; labelled ends: 340 mm → 22, Lhajw, Jia, Rot; 288 mm → (~TT, ~22v; 214 mm → pho, Oo, R20, [ykz; 191 mm → Swac, 2200p, LJsJN, Upb; 165 mm → Oo
 
-Every curve, box, word and wire group: [19xx - 462-02-004 - STEREO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20462-02-004%20-%20STEREO%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 462-02-004 - STEREO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 462-02-004 - STEREO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20462-02-004%20-%20STEREO%20EQUALIZER%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 462-02-004 - STEREO EQUALIZER MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

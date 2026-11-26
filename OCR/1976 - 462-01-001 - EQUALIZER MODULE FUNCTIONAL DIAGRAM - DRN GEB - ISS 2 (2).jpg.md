@@ -39,7 +39,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Title block:** (250, 8)–(373, 62) mm: WBS WARD-BECK · DRN _ GE B · M462 · DATE oct 76 · EQUALIZER MODULE · CXD. · FUNCTIONAL DIAGRAM · ISCALE · TOLS_ · 462 -01-001
 - **Wiring (first pass):** 78 connected wire groups from 287 runs; labelled ends: 476 mm → USED ON, WBS, IISS MOD ICXD; 212 mm → ~10 /+ 8 dBm; 119 mm → DRN _, DATE, CXD.; 100 mm → IISS MOD ICXD, 3536 IPM, USED ON; 49 mm → 'boost/, FReq
 
-Every curve, box, word and wire group: [1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

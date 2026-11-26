@@ -41,7 +41,7 @@ M462 equalizer module functional diagram, cropped.
 - **Title block:** (99, 10)–(250, 81) mm: WBS WARD-BECK · DRN: GE B · M462 · DATE oct 76 · EQUALIZER · CKD_ · SCALE · XX · TOLS_ · 462 -01-001
 - **Wiring (first pass):** 41 connected wire groups from 126 runs; labelled ends: 214 mm → ON, WBS; 181 mm → 26; 148 mm → 26; 137 mm → 8 -109A; 64 mm → LTD_, BYBTEMS
 
-Every curve, box, word and wire group: [1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

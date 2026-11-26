@@ -27,7 +27,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Title block:** (130, 0)–(293, 48) mm: ISSMOD CKDJ · USED ON · MATL_ · 1243 · WBS WAAD-BeCk · DRN · 1-124 · ML · DATE Oct 76 · EQUALIZER Filter · cKD · Amplifier SCHEMATIC · SCALE · TOLS · 4-126-02-001
 - **Wiring (first pass):** 83 connected wire groups from 403 runs; labelled ends: 269 mm → R33, iok, 0-6, 065; 186 mm → 6k2, 0-6, 065, c47; 157 mm → RI4, ok; 138 mm → 345, Gk2, c42, 065; 138 mm → cic, ZemcinEd, VALYE, 0p
 
-Every curve, box, word and wire group: [1976 - M462 - 4-126-02-001 - ISCALE AMPLIFIER SCHEMATXC (traced).json](../SCHEMATICS/1976%20-%20M462%20-%204-126-02-001%20-%20ISCALE%20AMPLIFIER%20SCHEMATXC%20(traced).json) (the CAD file: `1976 - M462 - 4-126-02-001 - ISCALE AMPLIFIER SCHEMATXC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M462 - 4-126-02-001 - ISCALE AMPLIFIER SCHEMATXC (traced).json](../SCHEMATICS/1976%20-%20M462%20-%204-126-02-001%20-%20ISCALE%20AMPLIFIER%20SCHEMATXC%20%28traced%29.json) (the CAD file: `1976 - M462 - 4-126-02-001 - ISCALE AMPLIFIER SCHEMATXC (traced).dxf`).
 
 ## Full text
 

@@ -36,7 +36,7 @@ Photo of the M462B equalizer schematic with title block at bottom right.
 - **Title block:** (348, 163)–(653, 287) mm: WBS WARD-BECK BYSTEMs LtD · DRN: Pm · DATE 9MAZ · M462B · CKD. · R2l · SCALE · EQUALIZER_SCHEMATIC · TOLS,
 - **Wiring (first pass):** 110 connected wire groups from 572 runs; labelled ends: 353 mm → WARD-BECK, BYSTEMs, M462B, LtD; 342 mm → EQUALIZER_SCHEMATIC, 482-02023; 220 mm → WBS; 146 mm → M462B, EQUALIZER_SCHEMATIC, 482-02023; 144 mm → BYSTEMs, M462B, EQUALIZER_SCHEMATIC, 482-02023
 
-Every curve, box, word and wire group: [1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5 (traced).json](../SCHEMATICS/1974%20-%20462-02-003%20-%20M462B%20EQUALIZER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%205%20(traced).json) (the CAD file: `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5 (traced).json](../SCHEMATICS/1974%20-%20462-02-003%20-%20M462B%20EQUALIZER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5 (traced).dxf`).
 
 ## Full text
 

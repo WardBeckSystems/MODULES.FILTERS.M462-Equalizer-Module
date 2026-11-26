@@ -18,7 +18,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Outlines:** line 188 rings, 3,709 straight (6,254 mm) / 494 curved (764 mm); text 271 rings, 2,359 straight (3,046 mm) / 655 curved (1,036 mm)
 - **Closed boxes:** 13
 
-Every curve, box, word and wire group: [1974 - M462 - 462-04-004 - ENG EQUALIZER MODULE (traced).json](../MECHANICAL/1974%20-%20M462%20-%20462-04-004%20-%20ENG%20EQUALIZER%20MODULE%20(traced).json) (the CAD file: `1974 - M462 - 462-04-004 - ENG EQUALIZER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 462-04-004 - ENG EQUALIZER MODULE (traced).json](../MECHANICAL/1974%20-%20M462%20-%20462-04-004%20-%20ENG%20EQUALIZER%20MODULE%20%28traced%29.json) (the CAD file: `1974 - M462 - 462-04-004 - ENG EQUALIZER MODULE (traced).dxf`).
 
 ## Full text
 

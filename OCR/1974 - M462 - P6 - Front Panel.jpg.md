@@ -11,6 +11,20 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Size:** 219,548 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** mechanical, size B (assumed) 328 × 432 mm, 1518 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–327 mm across, 2–421 mm up
+- **Outlines:** line 439 rings, 3,643 straight (10,911 mm) / 868 curved (1,166 mm); text 1,843 rings, 9,879 straight (8,636 mm) / 3,733 curved (4,670 mm); tb 534 rings, 3,044 straight (5,972 mm) / 885 curved (1,234 mm)
+- **Centre lines:** 14,234 paths (471 closed); straight 16,113 mm, curved 54.0 mm; horizontal 5,270 mm, vertical 4,272 mm, diagonal 6,571 mm
+- **Circles and arcs:** 1 circles, 20 arcs; largest r 1.0 @ (74.6, 193.0)
+- **Closed boxes:** 23 (14 in the title block); named: High FREQUENCY FREQUENCY AdJusthenT cont; Alows high FREQUENCY section , the PEAKI; Secector Sh high FREQUENCY section; HODE; conEro KId FREQUENCY section, from kHz v; Aid FREQUENCY section, ATows vary= Q-fac; FREQUENCY ADJUSTHENT FREQUENCY section, ; ows vary= Rliter FREQUENCY scction Q Adj; KODE SELECTOR switcn ShZ : LCw FREQUENCY; When depressed chis EQUAL ZER INSERT Ech
+- **Dots (junctions):** 1
+- **Words (OCR):** 278 in 170 lines: WBS · M462 · High FREQUENCY secriOn, · FREQUENCY AdJusthenT control · iable From 1.6 to 25 KHz · the · PEAKiNG made · Cani nous · Ene · frequenne ibra ion refers · the · center
+- **Title block:** (145, 6)–(328, 313) mm: WBS · M462 · HF · KH · FREQUENCY · Figh · Continuous- variable · to +15 dB Sets · concrol RI3; · of nigh frequency content of cne Program · materia · Kith ference the nomina eve · MF · RHI · AID · FRE
+
+Every curve, box, word and wire group: [1974 - M462 - P6 - Front Panel (traced).json](../MECHANICAL/1974%20-%20M462%20-%20P6%20-%20Front%20Panel%20%28traced%29.json) (the CAD file: `1974 - M462 - P6 - Front Panel (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 25 words corrected)

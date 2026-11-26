@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 248 in 164 lines: 4igh FREQuEncY section, · PZakteg the {requency oratior · FREQUENCY DJUSTMENT coniro · WBS · M462 · the · Lont · modc · iable · 25 <hz · the center · Donje curve
 - **Title block:** (142, 25)–(305, 319) mm: WBS · M462 · 4ig4 FREQUENcY section BOOST/ CUT contro · R13: · Cont inuous Iy · eble frcm 15 dB -15 dB_ Sets · ma teria| · high frequenc contemt · The · Lne · program · MF · CKA: · hid FREQUENCY · sef
 
-Every curve, box, word and wire group: [19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY (traced).json](../MECHANICAL/19xx%20-%20M462%20-%20DOC%20-%20462-04-005%20-%20EASED%20CNE%20UNEQUA%20TZED%20NPUT%20TGNA%20BYPESSED%20DIRECTLY%20(traced).json) (the CAD file: `19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY (traced).json](../MECHANICAL/19xx%20-%20M462%20-%20DOC%20-%20462-04-005%20-%20EASED%20CNE%20UNEQUA%20TZED%20NPUT%20TGNA%20BYPESSED%20DIRECTLY%20%28traced%29.json) (the CAD file: `19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY (traced).dxf`).
 
 ## Full text
 

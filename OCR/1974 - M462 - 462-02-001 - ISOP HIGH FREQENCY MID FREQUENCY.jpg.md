@@ -21,7 +21,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 176 in 162 lines: high FREQEnCY · Mid · =RECUEnCY · Loohz-6.4khz · 72 · 24 · RS · cok · cek · cCk · ^P ^ c · FILTER
 - **Wiring (first pass):** 146 connected wire groups from 615 runs; labelled ends: 194 mm → ^P ^ c; 175 mm → 242, 6.3/6; 162 mm → c5, 220p, 21v+, R2z; 132 mm → 646, 6*316; 124 mm → 2+3, 6 8/6
 
-Every curve, box, word and wire group: [1974 - M462 - 462-02-001 - ISOP HIGH FREQENCY MID FREQUENCY (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20462-02-001%20-%20ISOP%20HIGH%20FREQENCY%20MID%20FREQUENCY%20(traced).json) (the CAD file: `1974 - M462 - 462-02-001 - ISOP HIGH FREQENCY MID FREQUENCY (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 462-02-001 - ISOP HIGH FREQENCY MID FREQUENCY (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20462-02-001%20-%20ISOP%20HIGH%20FREQENCY%20MID%20FREQUENCY%20%28traced%29.json) (the CAD file: `1974 - M462 - 462-02-001 - ISOP HIGH FREQENCY MID FREQUENCY (traced).dxf`).
 
 ## Full text
 

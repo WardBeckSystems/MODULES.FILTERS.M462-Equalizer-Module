@@ -35,7 +35,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Title block:** (88, 8)–(370, 70) mm: IsS MOD CKD · USED ON · MATL. · WBS WARD-BeCK BysTEMs LTD · 3536 IPKM · DRN: GE B · M462 B · FINISH · DATE oct · E QUALIZER MODULE · CKD · SCALE · FUnCTIoNAL DIAG RA M · TOLS · 462 - 01-003
 - **Wiring (first pass):** 19 connected wire groups from 107 runs; labelled ends: 51 mm → Boost/, FREQ; 51 mm → Boost/, FREQ; 48 mm → Boosti, FREQ; 40 mm → FREQ, Boost/; 29 mm → LTD, BysTEMs
 
-Every curve, box, word and wire group: [1976 - 462-01-003 - M462B EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20462-01-003%20-%20M462B%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `1976 - 462-01-003 - M462B EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 462-01-003 - M462B EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20462-01-003%20-%20M462B%20EQUALIZER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 462-01-003 - M462B EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 297 in 185 lines: High FREQUENCY section _ · FREQUENCY ADJUSThENT contro · WBS · M462 · the PEAKiNG moce_ che requency ibration · R2: Cont nuous · From · kHz · Ene center requency · shapea · PEAKiNG · 3.2 6 4123
 - **Title block:** (136, 0)–(326, 326) mm: WBS · M462 · 3.2 6 4123 · HF · high · FREQUENcY · sect ion BoosT/CUT controi · RI3: · Cont nuous · aole rom · to -15 · Sets · gain · 055 · nian requency conten · [ne program · ma teria · reference the
 
-Every curve, box, word and wire group: [1974 - M462 - 462-04-005 - HIGH FREOUENCY SECTION BOOST-CUT CONTROI (traced).json](../MECHANICAL/1974%20-%20M462%20-%20462-04-005%20-%20HIGH%20FREOUENCY%20SECTION%20BOOST-CUT%20CONTROI%20(traced).json) (the CAD file: `1974 - M462 - 462-04-005 - HIGH FREOUENCY SECTION BOOST-CUT CONTROI (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 462-04-005 - HIGH FREOUENCY SECTION BOOST-CUT CONTROI (traced).json](../MECHANICAL/1974%20-%20M462%20-%20462-04-005%20-%20HIGH%20FREOUENCY%20SECTION%20BOOST-CUT%20CONTROI%20%28traced%29.json) (the CAD file: `1974 - M462 - 462-04-005 - HIGH FREOUENCY SECTION BOOST-CUT CONTROI (traced).dxf`).
 
 ## Full text
 

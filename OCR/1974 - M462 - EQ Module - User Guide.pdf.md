@@ -21,7 +21,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Outlines:** line 14 rings, 790 straight (2,813 mm) / 93 curved (150 mm); text 174 rings, 2,210 straight (2,751 mm) / 517 curved (810 mm)
 - **Words (OCR):** 9 in 7 lines: WAAD-BECK SYSTEMS LTD · WES 041 PAOGHE9S AVENUE SCARBOROUGH, ONTARID M1h2x4 · TELEX: 0b-23469 · TELEPHONE: 418/433-0550 · Ma62 · EQUALIZER MODULE · DESIGN AND MANUFACTURE O; PAOFCSSIONAL AUOD EGUPMENT
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p1 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p1%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p1 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p1%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p1 
 - **Words (OCR):** 120 in 79 lines: WAAD-BECK systems LTD; · DATA · IECHMICAL · M462_EQUALIZER_MODULE · in: · Unity. · Ga · Frequency Response: · 25 dB from · 20 Hz to 20 kHz · (a11 · equalizing contro]s in
 - **Title block:** (7, 411)–(120, 432) mm: WAAD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p2 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p2%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p2 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p2%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p2 
 - **Closed boxes:** 164
 - **Words (OCR):** 31 in 24 lines: WARD-BECK SYSTEMS LTD; · EREQUENCY_RESPONSE_CHARACTERISTICS · M46z_EQUALIZER MODULE · ddB · LOW_FREQUENCY section · SHELVING. · Mode: · 115 dB · FREQUEnCY : · 25 400 Hz . · ROHI · IooHz
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p3 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p3%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p3 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p3%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p3 (traced).dxf`).
 
 ### Page 4
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p3 
 - **Closed boxes:** 216
 - **Words (OCR):** 31 in 24 lines: WAAD-BECK SysTems LTD · FREQUENCY RESPONSECHARACIERLSTICS · M462_EQUALIZER_MODULE · OdB · MIDFREQUENCY_section · cut/boost: +15 · dB . · FREQUENCY : · 0 . 4 6 . 4 khz . · ZOHI · Z0k · J0k 40k
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p4 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p4%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p4 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p4%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p4 (traced).dxf`).
 
 ### Page 5
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p4 
 - **Dots (junctions):** 2
 - **Words (OCR):** 32 in 22 lines: WAAD-BECK Systems LTD; · FREQUENCY_RESPONSE_CHARACTERLSTICS · M462 _EQUALIZER MODULE · OdB · HIGH_FREQUENCY section · ShELVInG_ · Mode · cUT/BoOST: · +15 dB · FREQUENCY: 1 .6 25 khz . · J0h · Jok 40k
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p5 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p5%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p5 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p5%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p5 
 - **Words (OCR):** 286 in 187 lines: high FREQUENCY seccion _ FREQUENCY · ADJUSTHENT controi · WBS · 0162 · Continuous · iable · from 1.6 [0 25 kHz · Lhe · PEAKING mode · che · frequency bration PEAKiNG · Fers
 - **Title block:** (137, 0)–(327, 320) mm: WBS · 0162 · 3,2 6412 8 · HF · FREQUENCY · Cont nuous · able FO · [0 +|5 · concro | · ga(n · Ioss · of nigh frequency content of · ine Program · materia with · reference che · level - · MF · AID · sec
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p6 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p6%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p6 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p6%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p6 
 - **Dots (junctions):** 1
 - **Words (OCR):** 24 in 22 lines: Input · B /2 · Input SHIELD · C13 · J 8 · KI9 · L/1O · M[11 · Eaee · N /12 · P /13 · R /14
 
-Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p7 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p7%20(traced).json) (the CAD file: `1974 - M462 - EQ Module - User Guide p7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - EQ Module - User Guide p7 (traced).json](../MANUALS/1974%20-%20M462%20-%20EQ%20Module%20-%20User%20Guide%20p7%20%28traced%29.json) (the CAD file: `1974 - M462 - EQ Module - User Guide p7 (traced).dxf`).
 
 ## Full text
 

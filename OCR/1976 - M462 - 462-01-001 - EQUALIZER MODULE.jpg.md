@@ -27,7 +27,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Title block:** (250, 8)–(373, 62) mm: WBS WARD-BECK · DRN_ GE B · M462 · DATE oct · EQUALIZER MODULE · CXD. 3XS · FUNCTIONAL DIAGRAM · ISCALE · TOLS_ · 462 -01-001
 - **Wiring (first pass):** 77 connected wire groups from 249 runs; labelled ends: 487 mm → USED ON, WBS, ISS MOD ICXD; 211 mm → ~10 /+ 8 dBm; 122 mm → DRN_, DATE, CXD.; 100 mm → ISS MOD ICXD, 3536 IPM, USED ON; 49 mm → 'boost/, FReq
 
-Every curve, box, word and wire group: [1976 - M462 - 462-01-001 - EQUALIZER MODULE (traced).json](../SCHEMATICS/1976%20-%20M462%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20(traced).json) (the CAD file: `1976 - M462 - 462-01-001 - EQUALIZER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M462 - 462-01-001 - EQUALIZER MODULE (traced).json](../SCHEMATICS/1976%20-%20M462%20-%20462-01-001%20-%20EQUALIZER%20MODULE%20%28traced%29.json) (the CAD file: `1976 - M462 - 462-01-001 - EQUALIZER MODULE (traced).dxf`).
 
 ## Full text
 

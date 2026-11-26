@@ -40,7 +40,7 @@ Photograph of a drawing on a light table: functional diagram of the M462B four-b
 - **Words (OCR):** 13 in 12 lines: outrut · Mou CKu · WES · ayateme · DAIL · M46? B · Equalizer · ModuLe · CKo · functional Diagaam · Tols · 462-01-003
 - **Wiring (first pass):** 86 connected wire groups from 664 runs; labelled ends: 91 mm → Mou, CKu; 30 mm → DAIL, CKo, Tols; 29 mm → ModuLe, functional Diagaam; 22 mm → ModuLe, functional Diagaam; 20 mm → Mou
 
-Every curve, box, word and wire group: [1976 - 462-01-003 - M462B Equalizer Module Functional Diagram - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20462-01-003%20-%20M462B%20Equalizer%20Module%20Functional%20Diagram%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 462-01-003 - M462B Equalizer Module Functional Diagram - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 462-01-003 - M462B Equalizer Module Functional Diagram - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20462-01-003%20-%20M462B%20Equalizer%20Module%20Functional%20Diagram%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 462-01-003 - M462B Equalizer Module Functional Diagram - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 

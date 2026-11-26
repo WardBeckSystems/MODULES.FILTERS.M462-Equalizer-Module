@@ -36,7 +36,7 @@ Angled photo of the M462B equalizer schematic with title block at bottom right.
 - **Title block:** (293, 101)–(771, 276) mm: 2E2 · R49 · WARD-BeCk M462B SCHEMAZ · Gk2 · WBS EQUALIZER · MATL . · [DATE · On · CKD ISCALE · USED · Tols _ · CKD: · FINISH · TMODI Ez
 - **Wiring (first pass):** 66 connected wire groups from 1,022 runs; labelled ends: 25 mm → Tipzcb; 12 mm → Sw3, -25', R48, JNSERT; 11 mm → Sw3, JNSERT; 9 mm → OUTPUt; 9 mm → 95=
 
-Every curve, box, word and wire group: [1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM (traced).json](../SCHEMATICS/1974%20-%20462-02-003%20-%20M462B%20EQUALIZER%20SCHEMATIC%20-%20DRN%20DM%20(traced).json) (the CAD file: `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM (traced).json](../SCHEMATICS/1974%20-%20462-02-003%20-%20M462B%20EQUALIZER%20SCHEMATIC%20-%20DRN%20DM%20%28traced%29.json) (the CAD file: `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM (traced).dxf`).
 
 ## Full text
 

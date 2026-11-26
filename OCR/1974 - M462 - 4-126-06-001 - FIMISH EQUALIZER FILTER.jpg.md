@@ -25,7 +25,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 88 in 78 lines: E2 · E5 · C6 · R2o · Ri?cig C18 · 2S · R24 · R18 · C2I R2i · LMi458 · C4 · 37 21
 - **Title block:** (288, 2)–(422, 51) mm: WBS · WAAD-Beck · systeMS LTD: · RM · DRH: · 4-126 · DATE July74 · EQUALIZER · FILTER · CKD_ · 447 · COMPONENT  ASSEMBLY · SCALE · Tols _ · 4-126-06-001 Iss_
 
-Every curve, box, word and wire group: [1974 - M462 - 4-126-06-001 - FIMISH EQUALIZER FILTER (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-06-001%20-%20FIMISH%20EQUALIZER%20FILTER%20(traced).json) (the CAD file: `1974 - M462 - 4-126-06-001 - FIMISH EQUALIZER FILTER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 4-126-06-001 - FIMISH EQUALIZER FILTER (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-06-001%20-%20FIMISH%20EQUALIZER%20FILTER%20%28traced%29.json) (the CAD file: `1974 - M462 - 4-126-06-001 - FIMISH EQUALIZER FILTER (traced).dxf`).
 
 ## Full text
 

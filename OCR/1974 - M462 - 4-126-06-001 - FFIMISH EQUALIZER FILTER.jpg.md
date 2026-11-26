@@ -25,7 +25,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 72 in 62 lines: E3 68l6 · E2 · Lo ~C9= · C6 · R2o · Ri?cig C18 · R24 · R18 · 53 · 37 21 · E4 · C1b
 - **Title block:** (66, 10)–(318, 63) mm: IsS MOD @cKD] · USED OH · WBS · systeMS LtD · 2 B563 PM · 38 BD · Dm · 4-126 · 1eg8 · DAT JULY 74 · EQUALIZER FILTER · FIISH · CKD. · 44 · COMPONENT  ASSEMBLY · [SCALE · TOLS · 4-126-06-001 · Iss_
 
-Every curve, box, word and wire group: [1974 - M462 - 4-126-06-001 - FFIMISH EQUALIZER FILTER (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-06-001%20-%20FFIMISH%20EQUALIZER%20FILTER%20(traced).json) (the CAD file: `1974 - M462 - 4-126-06-001 - FFIMISH EQUALIZER FILTER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 4-126-06-001 - FFIMISH EQUALIZER FILTER (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-06-001%20-%20FFIMISH%20EQUALIZER%20FILTER%20%28traced%29.json) (the CAD file: `1974 - M462 - 4-126-06-001 - FFIMISH EQUALIZER FILTER (traced).dxf`).
 
 ## Full text
 

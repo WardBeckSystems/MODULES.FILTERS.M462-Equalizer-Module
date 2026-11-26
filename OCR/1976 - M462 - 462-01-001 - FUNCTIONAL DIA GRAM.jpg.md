@@ -27,7 +27,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Title block:** (99, 10)–(250, 81) mm: WBS WARD-BECK · DRN: GE B · M462 · DATE oct 76 · EQUALIZER · CKD_ · SCALE · XX · TOLS _ · 462 -01-001
 - **Wiring (first pass):** 44 connected wire groups from 132 runs; labelled ends: 214 mm → WBS, ON; 137 mm → 8 -109A; 89 mm → FINISH; 80 mm → DRN:, DATE, CKD_, FINISH; 64 mm → Boost/, FREQ
 
-Every curve, box, word and wire group: [1976 - M462 - 462-01-001 - FUNCTIONAL DIA GRAM (traced).json](../SCHEMATICS/1976%20-%20M462%20-%20462-01-001%20-%20FUNCTIONAL%20DIA%20GRAM%20(traced).json) (the CAD file: `1976 - M462 - 462-01-001 - FUNCTIONAL DIA GRAM (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M462 - 462-01-001 - FUNCTIONAL DIA GRAM (traced).json](../SCHEMATICS/1976%20-%20M462%20-%20462-01-001%20-%20FUNCTIONAL%20DIA%20GRAM%20%28traced%29.json) (the CAD file: `1976 - M462 - 462-01-001 - FUNCTIONAL DIA GRAM (traced).dxf`).
 
 ## Full text
 

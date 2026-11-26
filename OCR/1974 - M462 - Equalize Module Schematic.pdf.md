@@ -25,7 +25,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 130 in 123 lines: HiGh · FREDENCY · Mid FREOUENCY · Ow FRECUENCT · 0c4z- 4kkz · 25H2-400 · cak · P293 · 14403 · 257+ · 2435c2 · FILTER AmPLIFIER
 - **Title block:** (347, 17)–(423, 34) mm: WBS WARD-BeCK byeTeMS · 2517 · M4 6 2
 
-Every curve, box, word and wire group: [1974 - M462 - Equalize Module Schematic p1 (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20Equalize%20Module%20Schematic%20p1%20(traced).json) (the CAD file: `1974 - M462 - Equalize Module Schematic p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - Equalize Module Schematic p1 (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20Equalize%20Module%20Schematic%20p1%20%28traced%29.json) (the CAD file: `1974 - M462 - Equalize Module Schematic p1 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 24 in 23 lines: L f · MF · HF · boosT/ · Boost/ · Boost/ · FrEQ · FRE · CUt · CUt · CUt · InPUt
 - **Wiring (first pass):** 40 connected wire groups from 161 runs; labelled ends: 829 mm → MATL, FINISH; 691 mm → ~10 /+ 8 dBm; 210 mm → ISS.MOD:ICXD., MATL, 3536, PM; 71 mm → FINISH; 64 mm → Boost/
 
-Every curve, box, word and wire group: [1974 - M462 - 462-01-001 - BOOST- BOOST- FREQ FREQ FRE CUT CUT (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20462-01-001%20-%20BOOST-%20BOOST-%20FREQ%20FREQ%20FRE%20CUT%20CUT%20(traced).json) (the CAD file: `1974 - M462 - 462-01-001 - BOOST- BOOST- FREQ FREQ FRE CUT CUT (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 462-01-001 - BOOST- BOOST- FREQ FREQ FRE CUT CUT (traced).json](../SCHEMATICS/1974%20-%20M462%20-%20462-01-001%20-%20BOOST-%20BOOST-%20FREQ%20FREQ%20FRE%20CUT%20CUT%20%28traced%29.json) (the CAD file: `1974 - M462 - 462-01-001 - BOOST- BOOST- FREQ FREQ FRE CUT CUT (traced).dxf`).
 
 ## Full text
 

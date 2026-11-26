@@ -29,7 +29,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 24 in 14 lines: WARD -BECK YSTE MS LTD · ~.CNT"""CI · T.uI>< · ~·a538a · Tl".,Ef'I'-oClNI! · 3lI·e l5lKl · M462 /M562 · EQUALIZER MODULE · ps · BS · NUAL SSUE 14 · SEPTEMBER 1985
 - **Title block:** (111, 396)–(198, 421) mm: WARD -BECK YSTE MS LTD
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p1 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p1%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p1 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p1%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p1 (traced).dxf`).
 
 ### Page 2
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p1 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 54 in 38 lines: WAAD ECK BTITMs · ntronuct · 44uz/Mjoz LAualizep MCGULE · Daeaesee · Equaller Vor · "ecillary precenicg mdau · @etanec · nedcate · Vacous · scr |c5 · congas Byblem · 4lmizing
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p2 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p2%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p2 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p2%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p2 (traced).dxf`).
 
 ### Page 3
 
@@ -52,7 +52,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p2 (trace
 - **Dots (junctions):** 2
 - **Words (OCR):** 174 in 75 lines: Fl · ECK · TEM · LTO. · TECHNICAL DATA · N462 EQUALI ZER NODULE · 6aln · Un · ity · Fr equene yRespo nse · 2S d8 ro ll 20 Hz · 20 kHz
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p3 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p3%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p3 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p3%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p3 (traced).dxf`).
 
 ### Page 4
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p3 (trace
 - **Closed boxes:** 2
 - **Words (OCR):** 369 in 85 lines: CIRCUIT DESCRIPTION · 1'4462 EQUALIZER MODULE · The 1npu · gnal enters the /11462 module via pins · and · of · he dge co nne · and I2 · serve as the prea mpl rt · il26 · part · he pream
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p4 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p4%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p4 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p4%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p4 (traced).dxf`).
 
 ### Page 5
 
@@ -73,7 +73,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p4 (trace
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (154.4, 254.1)
 - **Words (OCR):** 368 in 93 lines: WAF{D- EC · YSTEM · LTD. · CERC UIT DESCRIPTION · M462 EQUALIZER MQDU LE · HEG FREQUENC equalizat ion is continuo usly ad jus able fro · 1.6 to · kHz nd is on · ll · by R1/R2. R13 determines the · amount of CUT or BOOS · total range from
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p5 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p5%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p5 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p5%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p5 (traced).dxf`).
 
 ### Page 6
 
@@ -82,7 +82,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p5 (trace
 - **Outlines:** line 141 rings, 1,871 straight (4,460 mm) / 413 curved (656 mm); text 762 rings, 5,872 straight (6,615 mm) / 1,775 curved (2,921 mm)
 - **Words (OCR):** 165 in 44 lines: RD · ECI< 8VS TI!MB · CIRCUIT DESCRI PTION · 462 EOUALIZER MODULE · rh us wi · SlI3 dep ruse · the qua zed signol.l · fed · the · outpu allplHler 8-t09A. · dd it on. IS SlI3 is · depressed.
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p6 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p6%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p6 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p6%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p6 (traced).dxf`).
 
 ### Page 7
 
@@ -93,7 +93,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p6 (trace
 - **Words (OCR):** 45 in 25 lines: WARO-BECK SYSTEMS LTO · FREQUENCY RESPONSE CHARACTERi STICS · H~62 EQUALI ZER MODULE · II · II · II · OW REQUENCY sec ion · Ho · SHELY IN · CUT/ BOOST · tI dB · FREQUENCY: 25
 - **Title block:** (22, 403)–(129, 425) mm: WARO-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p7 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p7%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p7 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p7%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p7 (traced).dxf`).
 
 ### Page 8
 
@@ -103,7 +103,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p7 (trace
 - **Closed boxes:** 196; named: ps BS; ps; BS
 - **Words (OCR):** 43 in 32 lines: Fl · YSTEMS · LTO. · CY RESPONSE CHARACTERISTICS · M46Z EQUALIZER MOOULE · HI · FRE · sectf on · CUT/BOOS · tI dB. · FREQUENCY: · kHL
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p8 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p8%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p8 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p8%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p8 (trace
 - **Closed boxes:** 136; named: II
 - **Words (OCR):** 51 in 30 lines: WARO-BE · STE · L.TO · FREOUENCY RESPONS CHARACTERISTICS · 11462 EOUALIZER MODULE · HIGH FREOUENCY se ct on · Mode: SHELVING. · se. · CUT/ BOOST · t15 · ~RE EIICY 1.6 · 25 kHz..
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p9 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p9%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p9 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p9%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p9 (trace
 - **Dots (junctions):** 1
 - **Words (OCR):** 211 in 115 lines: WAR · SI! CK · 8V. · M8 L.TC · PARTS LIST · 46 EOUALIZER MOD ULE · PART · DESCRI PTI ON · 'FG · MFG PART NUH8£ · Cl · Ca il~
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p10 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p10%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p10 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p10%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p10 (trac
 - **Closed boxes:** 9
 - **Words (OCR):** 122 in 71 lines: CK · LT · PARTS LIS · 14462 Eq UALIZER MODULE · PAil:T · DESCRI PTI ON · MFG PART NUHBER · C36 · Capac Ito 15 · pF · Phili ps · 2222 ·638· 1015
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p11 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p11%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p11 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p11%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p11 (traced).dxf`).
 
 ### Page 12
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p11 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 91 in 59 lines: WA~ O-eI! Cl< 8V8T.M8 L.T · PARTS LIST · 1(462 EOUALIZER MOD ULE · PART · DESCRI PTI OH · KFG · MFG PART HUMBER · Rl · PoUnt olleUr, · RH · del · IS
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p12 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p12%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p12 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p12%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p12 (traced).dxf`).
 
 ### Page 13
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p12 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 97 in 71 lines: WA~ · CK SYS EM LTO · PARTS LIST · M46 · EOUALI ZER MODULE · PART · DESCRIPTI ON · MFG · MFG PART · MBER · OSO · Reshto r'lW 5S
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p13 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p13%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p13 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p13%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p13 (traced).dxf`).
 
 ### Page 14
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p13 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 106 in 74 lines: Fl · ElE Cl< YSTE MS · LT · M462 EOUAl. 12!;:R MODUl.E · MF ,"ART NUMBER · Z6 · e,~rat · C;r<; u;t · zs · arc · CONTROL KNOBS. CA,"S AND BUTTONS · MFG
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p14 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p14%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p14 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p14%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p14 (traced).dxf`).
 
 ### Page 15
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p14 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 118 in 69 lines: WAR · SE CK SYSTEM · LT · M562 EOUALIZ!O:i'I MODULE · ON · OESCRIPTION · US"D · MFG PART NUMBER · R1,R · Blac · Knob · Elma
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p15 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p15%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p15 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p15%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p15 (traced).dxf`).
 
 ### Page 16
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p15 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 230 in 113 lines: WA O-B E.C · YSTE · L.T · 8-109 AMPLIF IER SERIES · 8-109 se.. ies · mplifier · re · til ze · an interna compo<1ent · it hin · us wa · .,.,"';es
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p16 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p16%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p16 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p16%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p16 (traced).dxf`).
 
 ### Page 17
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p16 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 360 in 139 lines: WA · YSTE MS · 8-109 AMPL IF' IE SERIE · Output Le el' · 30 dam ma ximum. · Pow er Requ ir...,.,erl · 21 · ol t!J dc, 18 rnA · Ie sc en current. · 65 rnA 1I1 +30 dBm · Ut. · Amb
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p17 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p17%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p17 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p17%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p17 (traced).dxf`).
 
 ### Page 18
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p17 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 102 in 69 lines: 109 AMPL FIER SER ES · DESCRIPTION · MF P"'RT NUMBER · cr · Capac tor · 33 uF l0 · Kerne · T3900336M OI O"'S · C2 · 10 uF /25 · CS · pF
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p18 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p18%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p18 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p18%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p18 (traced).dxf`).
 
 ### Page 19
 
@@ -221,7 +221,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p18 (trac
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (76.6, 243.4), r 1.7 @ (82.6, 243.5), r 1.7 @ (88.6, 243.4)
 - **Words (OCR):** 68 in 51 lines: WARO-BEC · STeM · LTC · 109 AMPLI FI ER SERIES · OESCRI PTION · MF · ART · NUMBER · Res istor · f>K2 · Ph il ip · 18K
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p19 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p19%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p19 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p19 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p19%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p19 (traced).dxf`).
 
 ### Page 20
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p19 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 73 in 45 lines: -109 AMPL IF IER SER IES · All arts · _109 e><cep · noted elow · C6 · Cap aci tor · pF · cn · CO' · 47 00 · pF · RJI
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p20 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p20%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p20 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p20 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p20%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p20 (traced).dxf`).
 
 ### Page 21
 
@@ -243,7 +243,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p20 (trac
 - **Dots (junctions):** 2
 - **Words (OCR):** 57 in 37 lines: WAR · CK · ST MS LT · 8-109 AMPL IF IER SERIES · co · Ca c:IIOl" · pF · ct · O.OI5 uF · RS · IOr- 4W · 51. 4K7
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p21 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p21%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p21 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p21 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p21%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p21 (traced).dxf`).
 
 ### Page 22
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p21 (trac
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (103.9, 321.4), r 1.7 @ (92.7, 287.5)
 - **Words (OCR):** 51 in 24 lines: PARTSLtST · 8_109 AMPLIFIER SER IES · art as · er 8_109 except ee not ed · elow · CllP llc itor · 4.7 pF · Phil ip · Resi sto · 1!4W · 21(4 · was
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p22 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p22%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p22 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p22 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p22%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p22 (traced).dxf`).
 
 ### Page 23
 
@@ -264,7 +264,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p22 (trac
 - **Dots (junctions):** 3
 - **Words (OCR):** 300 in 156 lines: IRCU IT DESCR PTI ON · 126 EQUAL IZEi'! · LTER AMPLI IE · The 4_126 · equ Uz · filt · fie · int ed · ci ui · bo · utili zed as · in te na
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p23 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p23%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p23 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p23 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p23%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p23 (traced).dxf`).
 
 ### Page 24
 
@@ -275,7 +275,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p23 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 216 in 115 lines: WA~ · ECK YS EM · TC · 10_126 · EQUALI ZER ILT Ei'l AMPLIFIER · MFG ART NUMBER · cr · 6.8 uF · Kerne · T3908685MOO6AS · C2 · pF
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p24 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p24%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p24 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p24 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p24%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p24 (traced).dxf`).
 
 ### Page 25
 
@@ -285,7 +285,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p24 (trac
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 2.2 @ (102.3, 342.1), r 1.7 @ (77.8, 138.4), r 1.7 @ (77.8, 118.2), r 1.7 @ (83.9, 138.5)
 - **Words (OCR):** 55 in 45 lines: 4_126 · EOU "'L.IZ~R ILT · AMPL · ER · MFG PART NUMBER · Res i.~:o 1/4W · 'OK · Phili · R2 · >OK · eac · 2ZK
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p25 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p25%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p25 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p25 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p25%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p25 (traced).dxf`).
 
 ### Page 26
 
@@ -296,7 +296,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p25 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 64 in 35 lines: 126 EOUALIZER FILT ER AMPLIF IER · R4S · Re stor · 4W · il · R46 · elet · R47 · Re · tor 1!4W · 1M · R48
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p26 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p26%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p26 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p26 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p26%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p26 (traced).dxf`).
 
 ### Page 27
 
@@ -309,7 +309,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p26 (trac
 - **Words (OCR):** 486 in 241 lines: GH FREQUENCY · ct 1011. FREQUENCY AOJUSTJol NT · on ro · BS · 62 · RI R2, Con ti nuo ly · l'll!! · PEAKI NG · recce · he · l!!(Iull ncy · ia Dl Fr om
 - **Title block:** (222, 13)–(331, 57) mm: BS REDRAW · 10/17 · ISSUEToAn · REVISION · (vvas] WARC aeCK SYSTEMS · DRN. PM;J:. · tp · ENG. · ht EQUALIZER MODULE · M462 · CI<D. · FRONT PANEL
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p27 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p27%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p27 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p27 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p27%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p27 (traced).dxf`).
 
 ### Page 28
 
@@ -321,7 +321,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p27 (trac
 - **Dots (junctions):** 3
 - **Words (OCR):** 35 in 30 lines: LF · MF · HF · BOOS · BOO ST · BOOS · FREQ · FREQ · FRE · CU · UT · CU
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p28 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p28%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p28 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p28 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p28%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p28 (traced).dxf`).
 
 ### Page 29
 
@@ -335,7 +335,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p28 (trac
 - **Title block:** (100, 11)–(249, 77) mm: m=EI)WARD-BECK SVSTEMS · DRN. · GEB · M462 · DATE OCT 78 · FUNCTIONAL · SCALE · -xx
 - **Wiring (first pass):** 30 connected wire groups from 125 runs; labelled ends: 176 mm → A,t; 155 mm → )Vv, 'Iv"; 95 mm → FINISH; 80 mm → DRN., DATE, FINISH; 64 mm → BOO
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p29 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p29%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p29 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p29 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p29%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p29 (traced).dxf`).
 
 ### Page 30
 
@@ -345,7 +345,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p29 (trac
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 1.6 @ (184.8, 121.7), r 1.6 @ (158.2, 175.5), r 1.6 @ (238.9, 71.1), r 1.5 @ (154.5, 50.4)
 - **Words (OCR):** 77 in 58 lines: I-lI G,1-l RE QE I.lCY · FR · UE NCY · 2S IcJ~ · 00 Hz- · Hz. · Rl · R.4- · as · FluFl PlFJ · Ot · LT
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p30 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p30%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p30 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p30 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p30%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p30 (traced).dxf`).
 
 ### Page 31
 
@@ -356,7 +356,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p30 (trac
 - **Closed boxes:** 22
 - **Words (OCR):** 27 in 22 lines: ~OW · F;<E UE NC · SH -40 0~~t · ---r11 · 11<. · 1'1; · 10 · SV · ~"'5Gj RSO · i..B/ · li'~c.__ · OS
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p31 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p31%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p31 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p31 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p31%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p31 (traced).dxf`).
 
 ### Page 32
 
@@ -367,7 +367,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p31 (trac
 - **Closed boxes:** 32; named: USED ON; MOD.; CKO; 3o"; 319; A!G; tp; ~DL; 36"; 00; jp
 - **Words (OCR):** 93 in 66 lines: rt£'3 · NO · US ED) · is.. · 2£3 · 18 · C43' · C4 · ·Il/' · C2...t' · -R33 · -R28~
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p32 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p32%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p32 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p32 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p32%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p32 (traced).dxf`).
 
 ### Page 33
 
@@ -379,7 +379,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p32 (trac
 - **Words (OCR):** 45 in 34 lines: lei3 · COMPONENT · IDE · ps · BS · IDE, · ISS MOD eKD · USED ON · ~WARD.BECK SYSTEMS · )LDE ff> ID · LTD. · 3o"
 - **Title block:** (179, 5)–(315, 59) mm: BS · ~WARD.BECK SYSTEMS · DRN, · M462 · DATE · 74 · tp · ht · EQUALIZER MODUlF · CKD, · I'<'.«L..... · SCALE · COMPONENT lAYOU', · 81 -111 -06-001 · 15
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p33 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p33%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p33 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p33 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p33%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p33 (traced).dxf`).
 
 ### Page 34
 
@@ -391,7 +391,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p33 (trac
 - **Words (OCR):** 20 in 16 lines: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · NBSA · DRN_ DM/ 0ct74 · ENG_ · M462 M4624 M462B · EQUALIZER  MODULe · CKD · CONNECTOR REAR VIEW
 - **Title block:** (206, 14)–(429, 110) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · NBSA · DRN_ DM/ 0ct74 · ENG_ · M462 M4624 M462B · EQUALIZER  MODULe · CKD · CONNECTOR REAR VIEW · APP · SCALE · ISSUE · 462-04-004
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p34 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p34%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p34 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p34 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p34%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p34 (traced).dxf`).
 
 ### Page 35
 
@@ -402,7 +402,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p34 (trac
 - **Closed boxes:** 2; named: II .'7p
 - **Words (OCR):** 68 in 64 lines: I3 · +-18v · RI~ · C3 · 17 · 10 25 · ZZ · CI · RS · 2N2 OZ · VV' · 10
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p35 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p35%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p35 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p35 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p35%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p35 (traced).dxf`).
 
 ### Page 36
 
@@ -413,7 +413,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p35 (trac
 - **Closed boxes:** 3; named: tp ORN. El
 - **Words (OCR):** 49 in 39 lines: E3 · 21·S. · /22 · IS · E4. · I--JV\I\,--,---l'~.------~® · 220 10 · ES · R37 · 1-S · RZ · 22
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p36 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p36%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p36 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p36 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p36%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p36 (traced).dxf`).
 
 ### Page 37
 
@@ -423,7 +423,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p36 (trac
 - **Circles and arcs:** 15 circles, 0 arcs; largest r 11.4 @ (93.1, 139.2), r 11.2 @ (28.5, 266.6), r 10.6 @ (92.4, 266.7), r 7.7 @ (61.2, 265.8)
 - **Words (OCR):** 45 in 37 lines: -R8 · lN4i4S · -CRI"- · P~~.5 · ZI · 'ZZ · :2N210Z. _C,.!..op · lF3S," · LF35Go · -Rn 41<, · -R19 22 · _CS±7p
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p37 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p37%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p37 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p37 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p37%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p37 (traced).dxf`).
 
 ### Page 38
 
@@ -435,7 +435,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p37 (trac
 - **Words (OCR):** 49 in 40 lines: ·--C2~e · 4,lC. · 1.§..K · -Rl£lQ · LF35G- · -CIO±·7p · -CII~·"P · _RI\~K · 21< · \3390 · _C~O/'lS · E.Se
 - **Title block:** (117, 6)–(331, 107) mm: 1201, 1%11 · co · ISSUE DATE · REVISION · lAPP. · VVE3S] WARD-BECK SYSTEMS · ps · DRN.GEB · BS · 8-109A · ENG.MRW · ./78 · OUTPUT · AMPLIFIER · CKD. ,Ri\A, · COMPONENT LAYOUT · APP. · tp · ht · SCALE 
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p38 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p38%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p38 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p38 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p38%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p38 (traced).dxf`).
 
 ### Page 39
 
@@ -445,7 +445,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p38 (trac
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (328.6, 287.5), r 2.2 @ (172.4, 233.7), r 1.9 @ (189.2, 137.0)
 - **Words (OCR):** 67 in 45 lines: IGH · FR~QU C:l' · I4 · 25 \<:l4 · 1<1 · C9 · IO · R2. · lE IIlE tL · oo · oo op · C.O"li!lo
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p39 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p39%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p39 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p39 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p39%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p39 (traced).dxf`).
 
 ### Page 40
 
@@ -457,7 +457,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p39 (trac
 - **Words (OCR):** 83 in 69 lines: ID · I<z. · I4- · Ok · ere · G~~l~EO · 15 · ~A.I.U · I4- · ll · lO · :;20
 - **Title block:** (212, 5)–(233, 34) mm: DATE · CKD. · ee....
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p40 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p40%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p40 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p40 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p40%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p40 (traced).dxf`).
 
 ### Page 41
 
@@ -468,7 +468,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p40 (trac
 - **Closed boxes:** 16; named: ht
 - **Words (OCR):** 33 in 27 lines: E3 · E5" · CD · QI · R14 · c21R21 · 21 · R1 · R5 · 82S · gl 13 · R10CD VI
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p41 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p41%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p41 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p41 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p41%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p41 (traced).dxf`).
 
 ### Page 42
 
@@ -480,7 +480,7 @@ Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p41 (trac
 - **Dots (junctions):** 4
 - **Words (OCR):** 5 in 5 lines: CD · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p42 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p42%20(traced).json) (the CAD file: `1978 - M462 - M562 - Equalizer p42 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M462 - M562 - Equalizer p42 (traced).json](../MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer%20p42%20%28traced%29.json) (the CAD file: `1978 - M462 - M562 - Equalizer p42 (traced).dxf`).
 
 ## Full text
 

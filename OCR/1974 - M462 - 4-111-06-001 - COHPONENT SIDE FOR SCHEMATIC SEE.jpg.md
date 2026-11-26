@@ -20,7 +20,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Closed boxes:** 32; named: 27; 28 LmZel; 28 LmZel; 26 LM2ei; 24 Lmpel; USED ON; ISS MOD ICKD]; MGB; 3193; 3698; Al; ML
 - **Words (OCR):** 167 in 121 lines: ME5 · IE2 · R752*7 6.3/6 · 6316 · 537 - · 68l6 <29_7 · 6164 · 7517367_ · 75k · .29_R59 7R56220 · ~R58 · 620 R68
 
-Every curve, box, word and wire group: [1974 - M462 - 4-111-06-001 - COHPONENT SIDE FOR SCHEMATIC SEE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-111-06-001%20-%20COHPONENT%20SIDE%20FOR%20SCHEMATIC%20SEE%20(traced).json) (the CAD file: `1974 - M462 - 4-111-06-001 - COHPONENT SIDE FOR SCHEMATIC SEE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 4-111-06-001 - COHPONENT SIDE FOR SCHEMATIC SEE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-111-06-001%20-%20COHPONENT%20SIDE%20FOR%20SCHEMATIC%20SEE%20%28traced%29.json) (the CAD file: `1974 - M462 - 4-111-06-001 - COHPONENT SIDE FOR SCHEMATIC SEE (traced).dxf`).
 
 ## Full text
 

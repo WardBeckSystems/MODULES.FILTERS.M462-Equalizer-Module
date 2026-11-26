@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (350, 18)–(426, 33) mm: WBS WAAD-BeCk Bystems LTC · M462
 - **Wiring (first pass):** 180 connected wire groups from 1,199 runs, 3 dotted junctions; labelled ends: 298 mm → WBS; 284 mm → INSERT, R4, Gk2, R47; 258 mm → RI2; 190 mm → 2+3; 142 mm → C45, 6.8/6
 
-Every curve, box, word and wire group: [19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM (traced).json](../SCHEMATICS/19xx%20-%20M462%20-%20DOC%20-%20462-02-001%20-%20IMOD%20ICKD%20ENZMB%20KAETM%20(traced).json) (the CAD file: `19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM (traced).json](../SCHEMATICS/19xx%20-%20M462%20-%20DOC%20-%20462-02-001%20-%20IMOD%20ICKD%20ENZMB%20KAETM%20%28traced%29.json) (the CAD file: `19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM (traced).dxf`).
 
 ## Full text
 

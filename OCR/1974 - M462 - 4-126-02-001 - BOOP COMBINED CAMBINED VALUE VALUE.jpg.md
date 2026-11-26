@@ -21,7 +21,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 75 in 68 lines: 25k Az. ) · Hah · (16 khz · 23 · R3 · Sskz ciC · 312 · Gk2 · C6 · 33 · 6a16 · Ooop
 - **Wiring (first pass):** 41 connected wire groups from 255 runs; labelled ends: 255 mm → Sskz, ciC, Ooop, I0 ?; 118 mm → 312, Sskz, ciC, Ooop; 111 mm → 22, 22k; 110 mm → 33, Ok, 39; 100 mm → 6a16, C6, combiwedi, VALLE
 
-Every curve, box, word and wire group: [1974 - M462 - 4-126-02-001 - BOOP COMBINED CAMBINED VALUE VALUE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-02-001%20-%20BOOP%20COMBINED%20CAMBINED%20VALUE%20VALUE%20(traced).json) (the CAD file: `1974 - M462 - 4-126-02-001 - BOOP COMBINED CAMBINED VALUE VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 4-126-02-001 - BOOP COMBINED CAMBINED VALUE VALUE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-126-02-001%20-%20BOOP%20COMBINED%20CAMBINED%20VALUE%20VALUE%20%28traced%29.json) (the CAD file: `1974 - M462 - 4-126-02-001 - BOOP COMBINED CAMBINED VALUE VALUE (traced).dxf`).
 
 ## Full text
 

@@ -25,7 +25,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Words (OCR):** 147 in 116 lines: 0155 · 162 · IE2 · R7a · 37 - · S26 3/6 · 0164 · ~R58 · 3R56228 · Sp · 26 · Isp 228 225
 - **Title block:** (74, 5)–(280, 60) mm: ISS MOD CKD_ · USED ON · MATL_ · WBS WARD-BECK · bi93/0GB · DRN · Dm · M462 · E2ND · DATE SEC 74 · FINISH · CKD · EQUALIZER MODULF · COMPONENT LAYOUi · SCALE · 4e01 · ToLs · 4-111-06-001
 
-Every curve, box, word and wire group: [1974 - M462 - 4-111-06-001 - COMPONENT SIDE LDER SIDE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-111-06-001%20-%20COMPONENT%20SIDE%20LDER%20SIDE%20(traced).json) (the CAD file: `1974 - M462 - 4-111-06-001 - COMPONENT SIDE LDER SIDE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 4-111-06-001 - COMPONENT SIDE LDER SIDE (traced).json](../SCHEMATICS/1974%20-%20M462%20-%204-111-06-001%20-%20COMPONENT%20SIDE%20LDER%20SIDE%20%28traced%29.json) (the CAD file: `1974 - M462 - 4-111-06-001 - COMPONENT SIDE LDER SIDE (traced).dxf`).
 
 ## Full text
 

@@ -18,7 +18,7 @@ Wiki page: [M462](../../../../PAGES/M462.md)
 - **Outlines:** line 228 rings, 4,833 straight (9,149 mm) / 670 curved (1,019 mm); text 251 rings, 2,119 straight (2,766 mm) / 565 curved (863 mm)
 - **Closed boxes:** 13
 
-Every curve, box, word and wire group: [1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1974%20-%20M462%20-%20462-04-004%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1974%20-%20M462%20-%20462-04-004%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 
