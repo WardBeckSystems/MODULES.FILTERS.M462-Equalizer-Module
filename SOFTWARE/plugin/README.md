@@ -3,6 +3,8 @@
 The Ward-Beck M462 Equalizer (1974|7) as a **VST3 / CLAP plugin** with its front panel, and as the DSP
 the **Ward-Beck Audio Tap** runs as an insert.
 
+**Download** the VST3 / CLAP for Windows, macOS and Linux from this repo's [releases](https://github.com/WardBeckSystems/MODULES.FILTERS.M462/releases/latest). All Ward-Beck plugins: [Ward-Beck Plugin Core](https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core#plugins).
+
 | Control | Range | What it does |
 |---|---|---|
 | EQ | in / out | EQ in (red lamp); out = straight through |
