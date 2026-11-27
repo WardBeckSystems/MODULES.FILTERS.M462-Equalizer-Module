@@ -13,6 +13,143 @@ Ward-Beck Systems M462, 1974|7. Wiki page: [M462 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 28 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 156 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [31 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1974 - M462 - 562 - P003 - 1-1.jpg](MANUALS/1974%20-%20M462%20-%20562%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity. dB from 20 Hz to 20 kHz (a/1 8qu25 Timing controls FLAT position) |
+| **Noise** | (20 Hz to 20 kHz) 80 dBm. |
+| **Harmonic distortion** | Less than 0.258 Thd from 20 Hz 20 kHz +28 dBm output or Tess Less than 0.15 at 1 kHz at +28 dBm output |
+| **Source impedance** | 600 ohms max mum ba lanced/unba Lanced, |
+| **Input impedance** | ohms +10% balanced |
+| **Input level** | -10 +8 dBm nomina] _ maximum +30 dBm |
+| **Output impedance** | Less than 100 ohms Load Impedance= 600 ohms minimum, baLanced. |
+| **Output level** | 10 to +8 dBm nomina 1 _ max mum +30 dBm |
+| **Phasing** | Low number termina ]so f input and output are Phase |
+| **Power requirements** | +25 volts dc 100 MA maximum |
+| **Ambient temperature** | to 60 degrees Celsius. |
+| **Dimensions** | {ii&quot; wide 7&quot; high 6m5' deep. mm X 178 MM x&quot; 165 |
+
+## Circuit description
+
+From [1978 - M462 - M562 - Equalizer.pdf](MANUALS/1978%20-%20M462%20-%20M562%20-%20Equalizer.pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**1'4462 EQUALIZER MODULE**
+
+The 1npu t signal enters the /11462 module via pins 1 and 2 oft he edge connector. z t and I2 serve as the prea mpl t rte r. il26 is part oft he pream pct r cut t and is used t o set the overall equal her gain to un lty. The output oft ne pr eampl t fie ris routed directly to one of the normally closed contacts oft he INSERT switch SW3 to allow bypassing of thee qua l her. Additional l y, the preamp output is fed to I3. the f 1rst off our cascaded SUlllmi ng amplifiers IJ through I6. Signal processing I 3 through I6 serve as 1Il 1:dng and isolation allplifiers. They are used t o mix the primary input s1gnal with a corrections ig nal derived from the outputs of the 4-126 filter networks, resulting in raising or lowering the level o f selected core t c ns of thee ud t 0 spectrum. Additionally, they isolate the filter ne twc r ks from each other and prevent interaction between them. resulting inaccurate andre peat able equal1zing perfo rlllllnce. The CUT/SOOST controls R13. il14 and R16 feed an tn phe se or out -o f phase proportional signal tot he buffer amplifiers I 7. IS and I 10 respectively. The 1e vet of the s1 gn a l fed tot he buffers is dependent on the CUT/BOOST control setting with maximum level occurring at either end of the potentiome ter, linda null setting at the pot entiometer n f d nc s t t ton. Full clock wise or full counterclockwise potentiome t er settings will res u l tin the max1mum equal1 ze tt one xc ur s ions of +15 dB and · 15 dB respectively.
+
+The outputs of buffer amplifiers Z7. IB and I 10 are routed t o the 4·126 printed circuit board wh1ch contains three bandpa ss filters corresponding to each of the threes e ct ions of the equalizer. Each band· pass filter passes only apo rt ion of the signal delivered to it fro lll the buffer, with the center frequency and bandwidth determined by the FREQUENCY. &quot; 0&quot; and
+
+PEAK/SHELF controls.
+
+**CERC UIT DESCRIPTION**
+
+HEG H FREQUENCY equalization is continuously adjustable from 1.6 to 25 kHz and is cont rolled by R1/R2. R13 determines the amount of CUT or BOOST. A total range from -15 to +15 dB i s provided. OIi t h SOlI depressed, the unit will produce a high frequency SHELVING characteristic. When SW1is released, both positive or negative PEAKING can be obtained. The Q control RJ is effective only with SOlI in the PEAKING 1II0de and covers a Q-factor range of 2 t o 10.
+
+The HID FREQUENCY equalization is adjusted by R4/R 5, covering a frequency range from 0.4 to 6.4 kit:. CUT/BOOST i s controlled by R14. R6 adjusts the Q-factor. Only positive or negative bell-shaped PEAKING equalization is app l i cable int he midfrequency range.
+
+The LOW FREQUENCY equalization operates similarly tot he high frequency section. R10/ RI I adjusts the frequency range from 25 to 400 Hz. CUT or BOOST are control led by R16, Q by R12 and SW2 determines the choice of either SHELVING o r PEAK ING Char act eris tics.
+
+The three signals which 1uve the 4 -12 6 f fl t era r e &quot;correction signals &quot;, either i n phase or 180 degrees out of phase with the equalizer input and band pass limited a s determine d by the equa l1zer section and controls etti ngs. These &quot; c orr e c ti on signals &quot; are then summed together with the primary (Inp ut) signal by the operational amplifiers lJ, Z4 and Z6 thus for llling the equalized output signal.
+
+This concept Of adding a correction signal together with the incoming signal t o form the equalized signal is directly r e s pon s i b le fort he low noise and distortion c a peb tt t t te s of this unit.
+
+The compound signal a s generated along the entire processing
+
+chain appears a t the output of Z6. From here it is routed
+
+to one oft he normally open contacts oft he INSERT switch $01 3.
+
+WARD - B ECI&lt; 8VS TI!MB LTD.
+
+**&quot; 462 EOUALIZER MODULE**
+
+rh us, with SlI3 dep ruse d, thee qua l f zed signol.l i s fed t o the output allplHler 8-t09A. Ina dd it f on. IS SlI3 is depressed. the LED ind i cato r 1$ acth ate d.
+
+Transient frte operation of the fnsert l onpushbutton Is ensured by e_ployf nll a _ate -befo re _b reak switch con f i gu ration _ The output oft hl 8-109A 1$ acthely balanced and Is brought out at pins 15 and 16 o f the edge connector.
+
+Power Supply Oecoupl inq An I.cthe power sup ply dlcoupllnll network cons h t ln g of Ql through Q6 provides I. high degree of ho la U on betlilu n the &quot; 462 and the t2 5 'IoTt supply r l il s. Trans hto r s Q5 and Q6 s e -v e I.S cur rl nt _on1to rs I.nd w11 1 11_1t the current f 101111 ng through the pus trAnsistors Q3 I.nd Q4 int he event that excess he power supply de.a nds should arise as ares ul t o f co_pone nt hflu rl.
+
+FREQUENCY RESPONSE CHARACTERiSTICS
+
+**H~62 EQUALIZER MODULE**
+
+LOW fREQUENCY section Hod e: SHELY ING.
+
+CUT/ BOOST: tI 5 dB.
+
+FREQUENCY: 25 &amp; 4 00 Hz.
+
+LOW FREQUENCY section
+
+Mode: PEAKING.
+
+CUT/BOOS T: t15 dB.
+
+FREQUENCY: 25 &amp; 4 00 Hz.
+
+Q: 2.
+
+F R E Q U E ~ CY RESPONSE CHARACTERISTICS
+
+HI a FRE Q U E ~ C Y sectf on CUT/BOOS T: tI S dB.
+
+FREQUENCY: 0.4 &amp; 6.4 kHL Q: Z.
+
+HID FREOUENCY section BOOST: +3 to +15 es, i n -.
+
+3 dB steps. Q: Z.
+
+FREQUENCY: I kHz.
+
+-6 &amp; -15 sa. Q: 10.
+
+FREQUE~CY: Z kHz.
+
+WARO-BE C K SYSTEMS L.to.
+
+**11462 EOUALIZER MODULE**
+
+HIGH FREOUENCY section
+
+Mode: SHELVING.
+
+CUT/ BOOST: t15 se.
+
+-. I &quot;- I ~RE Q U EIICY: 1.6 &amp; 25 kHz..
+
+**-, III I**
+
+-, I! I I 'f!
+
+**I I**
+
+HIGH FREOUENCY section
+
+Mode: PEAKING.
+
+CUT/ BOOST: +15 dB. -e l\
+
+**I WII**
+
+FREQUENCY: 1.6 10 25 kHz.
+
+Q: 2.
+
+&quot;&quot; &quot;,,_0lIl&lt;
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

@@ -1,0 +1,197 @@
+{
+ "module": "M462",
+ "title": "M462 EQUALIZER_MODULE",
+ "source": {
+  "file": "MANUALS/1974 - M462 - 562 - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity. dB from 20 Hz to 20 kHz (a/1 8qu25 Timing controls FLAT position)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "(20 Hz to 20 kHz) 80 dBm.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 80,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.258 Thd from 20 Hz 20 kHz +28 dBm output or Tess Less than 0.15 at 1 kHz at +28 dBm output",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms max mum ba lanced/unba Lanced,",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "ohms +10% balanced",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 +8 dBm nomina] _ maximum +30 dBm",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms Load Impedance= 600 ohms minimum, baLanced.",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "10 to +8 dBm nomina 1 _ max mum +30 dBm",
+   "quantities": [
+    {
+     "from": 10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number termina ]so f input and output are Phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc 100 MA maximum",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 100,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 60 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "{ii\" wide 7\" high 6m5' deep. mm X 178 MM x\" 165",
+   "quantities": [
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 178,
+     "unit": "MM"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1974 - M462 - EQ Module - User Guide.pdf",
+   "page": 2
+  },
+  {
+   "file": "MANUALS/19xx - M462 - DOC - WBS sales 3.jpg",
+   "page": 1
+  }
+ ]
+}
