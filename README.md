@@ -4,13 +4,13 @@ Ward-Beck Systems M462, 1974|7. Wiki page: [M462 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 145 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 24 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 387 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 19 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 29 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 144 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 23 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 386 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 18 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 28 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 152 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -170,6 +170,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3NqZUNEYXQ3LU0/view?resourcekey=0-P0Cy5USwD1-HGPnGSQ0yUQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3NqZUNEYXQ3LU0&resourcekey=0-P0Cy5USwD1-HGPnGSQ0yUQ" width="240" alt="1974 - M462 - P6 - Front Panel.jpg"></a><br><sub>1974|7 · P6 - Front Panel · <a href="MECHANICAL/1974%20-%20M462%20-%20P6%20-%20Front%20Panel%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMmt6bEJjcno1TW8/view?resourcekey=0-4eGboE_7iMX7uzZp3krt3A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMmt6bEJjcno1TW8&resourcekey=0-4eGboE_7iMX7uzZp3krt3A" width="240" alt="19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY.jpg"></a><br><sub>19xx - M462 - DOC - 462-04-005 - EASED CNE UNEQUA TZED NPUT TGNA BYPESSED DIRECTLY · <a href="MECHANICAL/19xx%20-%20M462%20-%20DOC%20-%20462-04-005%20-%20EASED%20CNE%20UNEQUA%20TZED%20NPUT%20TGNA%20BYPESSED%20DIRECTLY%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M462.stl`](MECHANICAL/M462.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M462)
+
+- **Size:** 54.62 × 199.71 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 11 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M462 - front panel.svg`)
+- the drawn panel is 0.22 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M462.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -185,8 +194,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcWp0ajNRRHBLeDg/view?resourcekey=0-Q2MMKH-yTe4GIO1GE1GRzg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcWp0ajNRRHBLeDg&resourcekey=0-Q2MMKH-yTe4GIO1GE1GRzg" width="240" alt="1976 - M462 - 462-01-001 - FUNCTIONAL DIA GRAM.jpg"></a><br><sub>1976|9 · 462-01-001 - FUNCTIONAL DIA GRAM · <a href="SCHEMATICS/1976%20-%20M462%20-%20462-01-001%20-%20FUNCTIONAL%20DIA%20GRAM%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1SlAXeKNOAms8SzgsASHqk3RfQGUzwv6-/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1SlAXeKNOAms8SzgsASHqk3RfQGUzwv6-" width="240" alt="19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM.jpg"></a><br><sub>19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM · <a href="SCHEMATICS/19xx%20-%20M462%20-%20DOC%20-%20462-02-001%20-%20IMOD%20ICKD%20ENZMB%20KAETM%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM - ISS 5.jpg`, `1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM.jpg`, `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2).jpg`, `1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2.jpg`, `1976 - 462-01-003 - M462B EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2 (2).jpg`, `1976 - 462-01-003 - M462B Equalizer Module Functional Diagram - DRN GEB - ISS 2.jpg`, `19xx - 4-126-06-001.jpg`, `19xx - 462-01-001.jpg`, `19xx - 462-01-004 - STEREO EQUALIZER MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 462-01-004.jpg`, `19xx - 462-02-004 - STEREO EQUALIZER MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 462-02-004.jpg`, `19xx - 8-109-02-002.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -194,8 +201,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWF9ZUUFROVVNU2M/view?resourcekey=0-iBrvw9fHzydPRG_hZEZngQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWF9ZUUFROVVNU2M&resourcekey=0-iBrvw9fHzydPRG_hZEZngQ" width="240" alt="1974 - M462 - 462-04-004 - CONNECTOR REAR VIEW.jpg"></a><br><sub>1974|7 · 462-04-004 - CONNECTOR REAR VIEW · <a href="PINOUTS/1974%20-%20M462%20-%20462-04-004%20-%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462 - P7 - Pin Out.jpg"></a><br><sub>1974|7 · P7 - Pin Out · <a href="PINOUTS/1974%20-%20M462%20-%20P7%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M462 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -294,11 +299,9 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 8-109-02-002.kicad_sch](KICAD/19xx%20-%208-109-02-002.kicad_sch)
 - [19xx - M462 - DOC - 462-02-001 - IMOD ICKD ENZMB KAETM.kicad_sch](KICAD/19xx%20-%20M462%20-%20DOC%20-%20462-02-001%20-%20IMOD%20ICKD%20ENZMB%20KAETM.kicad_sch)
 - [M462.kicad_sym](KICAD/M462.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
-- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
