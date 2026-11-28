@@ -1,5 +1,5 @@
 # 1974 - M462 - WBS test procedures 1.jpeg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

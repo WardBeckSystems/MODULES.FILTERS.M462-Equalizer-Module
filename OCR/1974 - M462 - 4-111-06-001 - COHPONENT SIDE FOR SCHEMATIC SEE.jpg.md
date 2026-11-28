@@ -1,5 +1,5 @@
 # 1974 - M462 - 4-111-06-001 - COHPONENT SIDE FOR SCHEMATIC SEE.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1974 - 462-02-003 - M462B EQUALIZER SCHEMATIC - DRN DM.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (title block date)

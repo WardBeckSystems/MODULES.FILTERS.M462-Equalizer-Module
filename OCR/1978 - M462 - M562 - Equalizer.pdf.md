@@ -1,5 +1,5 @@
 # 1978 - M462 - M562 - Equalizer.pdf
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1978 (found in this file: "DATE OCT 78")

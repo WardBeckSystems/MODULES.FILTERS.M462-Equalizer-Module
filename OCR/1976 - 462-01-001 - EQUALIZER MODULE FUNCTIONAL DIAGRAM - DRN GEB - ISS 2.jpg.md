@@ -1,5 +1,5 @@
 # 1976 - 462-01-001 - EQUALIZER MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 2.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1976 (title block date)

@@ -1,5 +1,5 @@
 # 1974 - M462 - 462-01-001 - BOOST- BOOST- FREQ FREQ FRE CUT CUT.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

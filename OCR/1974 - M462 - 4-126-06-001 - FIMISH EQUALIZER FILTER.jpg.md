@@ -1,5 +1,5 @@
 # 1974 - M462 - 4-126-06-001 - FIMISH EQUALIZER FILTER.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (found in this file: "DATE JULY 74")

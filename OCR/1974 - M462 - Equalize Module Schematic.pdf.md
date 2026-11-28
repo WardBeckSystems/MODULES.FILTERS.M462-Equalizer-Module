@@ -1,5 +1,5 @@
 # 1974 - M462 - Equalize Module Schematic.pdf
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

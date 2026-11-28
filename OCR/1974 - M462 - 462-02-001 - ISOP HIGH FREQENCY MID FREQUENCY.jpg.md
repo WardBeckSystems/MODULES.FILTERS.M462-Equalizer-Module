@@ -1,5 +1,5 @@
 # 1974 - M462 - 462-02-001 - ISOP HIGH FREQENCY MID FREQUENCY.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

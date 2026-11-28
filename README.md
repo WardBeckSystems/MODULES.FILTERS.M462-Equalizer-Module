@@ -1,6 +1,6 @@
 # M462 Equalizer Module · Filters
 
-Ward-Beck Systems M462, 1974|7. Wiki page: [M462 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M462.html)
+Ward-Beck Systems M462, 1974|7. Wiki page: [M462 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M462-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

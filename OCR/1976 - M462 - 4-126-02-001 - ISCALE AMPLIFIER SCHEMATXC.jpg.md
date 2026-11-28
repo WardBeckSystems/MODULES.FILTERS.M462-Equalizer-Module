@@ -1,5 +1,5 @@
 # 1976 - M462 - 4-126-02-001 - ISCALE AMPLIFIER SCHEMATXC.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1976 (found in this file: "DATE Oct 76")

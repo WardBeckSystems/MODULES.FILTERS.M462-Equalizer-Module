@@ -1,5 +1,5 @@
 # 1976 - M462 - 462-01-001 - EQUALIZER MODULE.jpg
-Wiki page: [M462](../../../../PAGES/M462.md)
+Wiki page: [M462](../)
 
 
 - **Year:** 1976 (found in this file: "DATE oct 76")
